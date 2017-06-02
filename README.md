@@ -7,4 +7,4 @@ Some of the Ideas for developing the applications are mentioned in this Readme.m
 3. Chatbot for Canvas QA. Which should be capable of answering the student question and it should suggest and inform upcoming and current happening events artificially.
 4. Other cognitive service applications are suggestable.
 
-Please contribute code to this if someone intrested.
+Please contribute code to this if someone Intrested.
