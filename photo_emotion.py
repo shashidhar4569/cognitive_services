@@ -14,8 +14,8 @@ import matplotlib.pyplot as plt
 
 # Variables
 
-_url = 'https://westus.api.cognitive.microsoft.com/emotion/v1.0/recognize'
-_key = '783936b9d0fb49d8978a3f7d1a9454f3' #Here you have to paste your primary key
+_url = 'your url'
+_key = 'your emotion key' #Here you have to paste your primary key
 _maxNumRetries = 10
 
 def processRequest( json, data, headers, params ):
